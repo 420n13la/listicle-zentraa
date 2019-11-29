@@ -1,0 +1,48 @@
+body {
+  background-color: #222831;
+  text-align: center;
+}
+.siteH {
+  font-family: 'Baloo Bhai', cursive;
+  color: #00adb5;
+  font-size: 40px;
+}
+.siteP {
+  color: #eeeeee;
+  font-family: 'Permanent Marker', cursive;
+  line-height: 25px;
+  font-size: 20px;
+}
+.siteImg {
+  width: 1000px;
+}
+#sites {
+  width: 70%;
+  text-align: left;
+  perspective: 1px;
+  perspective-origin: 0 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #393e46;
+  padding: 40px;
+}
+#head {
+  font-family: 'Baloo Bhai', cursive;
+  color: #00adb5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  text-align: center;
+  font-size: 60px;
+}
+.myname {
+  text-align: center;
+  color: #00adb5;
+  font-family: 'Baloo Bhai', cursive;
+}
+.pp {
+  margin-top: -50px;
+  width: 100px;
+}
